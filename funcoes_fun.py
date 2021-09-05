@@ -5,3 +5,7 @@ def minha_soma(x,y):
 def minha_mult(x,y):
     prod = x*y
     return prod
+
+class Estrutura():
+    pass
+
